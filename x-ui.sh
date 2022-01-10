@@ -393,7 +393,7 @@ show_xray_status() {
  
 show_usage() {
     echo ""
-    echo -e " ${green}[Đậu Đậu việt hóa] "
+    echo -e " ${green}[Nguyễn Minh Thiện việt hóa] "
     echo -e " ${plain}Cách sử dụng tập lệnh quản lý x-ui       "
     echo -e "------------------------------------------"
     echo -e " x-ui              - Hiển thị menu quản lý (nhiều chức năng hơn)"
